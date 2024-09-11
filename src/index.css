@@ -1,0 +1,17 @@
+
+body {
+  margin: 0;
+  background-color: black;
+  
+}
+.container{
+  max-width: 1200px;
+  width: 90%;
+  margin: 0 auto;
+}
+a{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+
